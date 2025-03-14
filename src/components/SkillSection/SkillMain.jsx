@@ -1,7 +1,7 @@
 import React from "react";
 import SkillText from "./SkillText";
 import AllSkill from "./AllSkill";
-import AllSkillSm from "./AllSkillSm";
+import AllSkillSM from "./AllSkillSM";
 import { motion } from "motion/react"
 import {fadeIn} from '../../framermotion/variants'
 

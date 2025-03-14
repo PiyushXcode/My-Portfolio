@@ -1,0 +1,10 @@
+
+
+@import "tailwindcss";
+
+
+body{
+    font-family:'Josefin Sans';
+    color: white;
+    background-color: #2c2523;
+}

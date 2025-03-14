@@ -1,0 +1,12 @@
+import React from 'react'
+
+function SkillText() {
+  return (
+    <div className='flex flex-col items-center justify-center mx-auto mt-[110px]'>
+      <h2 className='text-6xl text-cyan-300 mb-10'>My Skills</h2>
+      <p className='text-2xl text-center'>I not only work with this technologies but excellent in using them with best practices to deliver high-quality results, I have  been working  with all these skills  to build my portfolio projects</p>
+    </div>
+  )
+}
+
+export default SkillText

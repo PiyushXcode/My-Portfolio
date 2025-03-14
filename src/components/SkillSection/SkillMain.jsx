@@ -22,7 +22,7 @@ const SkillMain = () => {
         <AllSkill />
         </div>
         <div className="sm:block md:hidden">
-          <AllSkillSm/>
+          <AllSkillSM/>
         </div>
       </div>
     </div>

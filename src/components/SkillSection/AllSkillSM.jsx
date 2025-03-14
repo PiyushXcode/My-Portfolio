@@ -61,7 +61,7 @@ const skills = [
   },
 ];
 
-const AllSkillSm = () => {
+const AllSkillSM = () => {
   return (
     <div className="grid md:grid-cols-4 sm:grid-cols-2 gap-12 my-12">
       {skills.map((item, index) => {
@@ -81,4 +81,4 @@ const AllSkillSm = () => {
   );
 };
 
-export default AllSkillSm;
+export default AllSkillSM;
